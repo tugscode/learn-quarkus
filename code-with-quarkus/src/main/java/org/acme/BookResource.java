@@ -11,7 +11,7 @@ public class BookResource {
 
     private static ArrayList<String> books = new ArrayList<>();
     static {
-        books.add("The Freelancer's Bible");
+        books.add("git hub streak");
     }
 
     @GET
